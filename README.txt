@@ -14,29 +14,17 @@ Algorithm
 =========
 
 while (there is no winner and there is a valid move and players want to play) do
-
     |if (its whites turn)
-
     ||display the board from the turns prospective
-
     ||ask for input for the turn
-
     ||check if this is a valid move for this player to make
-
     ||execute move
-
     |else (its blacks turn)
-
     ||same as if but with black as the turns player
-
     |end
-
     |check if there are avalible moves
-
     |check if there is a winner
-    
     |check if the game still wants to be played
-    
     end
 
 Implementation
