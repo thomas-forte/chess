@@ -10,8 +10,9 @@
 #include <stdio.h>
 #include <windows.h>
 
-#include "structuresAndDataTypes.h"
-#include "output.h"            
+#include "dataTypes.h"
+#include "win-console-output.h"  
+//#include "lin-console-output.h"
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // Fucntions, functions, functions!
